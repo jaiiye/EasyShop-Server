@@ -1,22 +1,23 @@
-Official Shopizer 2.0.1
+EasyShop-Server(网上便利店) 2.0.1 中文版
 -------------------
-Java open source e-commerce software
+功能列表
 
-- Shopping cart
-- Catalogue
-- Search
-- Checkout
-- Administration
+- 购物车 Shopping cart
+- 分类 Catalogue
+- 查找 Search
+- 结算 Checkout
+- 管理 Administration
 
 
 To get the code:
 -------------------
 Clone the repository:
-$ git clone git://github.com/shopizer-ecommerce/shopizer.git
+$ git clone git://github.com/1047210553/EasyShop-Server.git
 
 If this is your first time using Github, review http://help.github.com to learn the basics.
 
-You can also download the zip file containing the code from https://github.com/shopizer-ecommerce/shopizer 
+You can also download the zip file containing the code from https://github.com/1047210553/EasyShop-Server.git
+
 
 To run the application:
 -------------------	

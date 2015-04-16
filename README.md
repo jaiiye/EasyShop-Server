@@ -9,9 +9,11 @@ EasyShop-Server(网上便利店) 2.0.1 中文版
 
 
 
-获取源码:
+项目描述:
 -------------------
-Clone the repository:
+
+获取源码
+
 $ git clone git://github.com/1047210553/EasyShop-Server.git
 
 If this is your first time using Github, review http://help.github.com to learn the basics.

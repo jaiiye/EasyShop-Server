@@ -5,14 +5,7 @@ EasyShop-Server(网上便利店) 2.0.1 中文版
 - 20150416 程序汉化中文版
 - 20150415 获取源码部署成功
 
--------------------
-功能列表
 
-- 购物车 Shopping cart
-- 分类 Catalogue
-- 查找 Search
-- 结算 Checkout
-- 管理 Administration
 
 
 获取源码:
@@ -24,6 +17,14 @@ If this is your first time using Github, review http://help.github.com to learn 
 
 You can also download the zip file containing the code from https://github.com/1047210553/EasyShop-Server.git
 
+-------------------
+功能列表
+
+- 购物车 Shopping cart
+- 分类 Catalogue
+- 查找 Search
+- 结算 Checkout
+- 管理 Administration
 
 编译代码:
 -------------------	

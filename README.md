@@ -19,7 +19,7 @@ If this is your first time using Github, review http://help.github.com to learn 
 You can also download the zip file containing the code from https://github.com/1047210553/EasyShop-Server.git
 
 
-运行程序:
+编译代码:
 -------------------	
 From the command line with Maven installed:
 
@@ -32,7 +32,7 @@ copy sm-shop/target/sm-shop.war to tomcat or any other application server deploy
 
 Increase heap space to 1024 m or at least 512 m
 
-### Heap space configuration in Tomcat:
+### 环境配置:
 
 
 If you are using Tomcat, edit catalina.bat for windows users or catalina.sh for linux / Mac users
@@ -44,7 +44,7 @@ If you are using Tomcat, edit catalina.bat for windows users or catalina.sh for 
 	export JAVA_OPTS="-Xms1024m -Xmx1024m -XX:MaxPermSize=256m" 
 
 
-### Access the application:
+### 运行程序:
 
 
 Access the deployed web application at: http://localhost:8080/sm-shop/shop
@@ -57,7 +57,7 @@ Acces the admin section at: http://localhost:8080/sm-shop/admin
 The instructions above will let you run the application with default settings and configurations.
 Please read the instructions on how to connect to MySQL, configure an email server and configure other subsystems
 
-### Documentation:
+### 帮助文档:
 
 Documentation available from the wiki <https://github.com/shopizer-ecommerce/shopizer/wiki>
 

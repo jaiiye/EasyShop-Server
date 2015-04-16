@@ -1,4 +1,5 @@
 EasyShop-Server(网上便利店) 2.0.1 中文版
+
 -------------------
 更新日志
 
@@ -17,7 +18,6 @@ If this is your first time using Github, review http://help.github.com to learn 
 
 You can also download the zip file containing the code from https://github.com/1047210553/EasyShop-Server.git
 
--------------------
 功能列表
 
 - 购物车 Shopping cart

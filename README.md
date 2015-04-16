@@ -9,7 +9,7 @@ EasyShop-Server(网上便利店) 2.0.1 中文版
 - 管理 Administration
 
 
-To get the code:
+获取源码:
 -------------------
 Clone the repository:
 $ git clone git://github.com/1047210553/EasyShop-Server.git
@@ -19,7 +19,7 @@ If this is your first time using Github, review http://help.github.com to learn 
 You can also download the zip file containing the code from https://github.com/1047210553/EasyShop-Server.git
 
 
-To run the application:
+运行程序:
 -------------------	
 From the command line with Maven installed:
 

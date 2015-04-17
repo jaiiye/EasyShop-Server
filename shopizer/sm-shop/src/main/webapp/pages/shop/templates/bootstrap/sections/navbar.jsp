@@ -99,14 +99,16 @@ $(document).ready(function() {
 	    											</a>
 	    										</li> 
 											</c:forEach>
-                    		            </ul>
-                    		            
-                    		            <div id="searchGroup" class="btn-group pull-right">
+
+											<div id="searchGroup" class="btn-group pull-right">
 											<form id="searchForm" class="form-inline" method="post" action="<c:url value="/shop/search/search.html"/>">
 												<input id="searchField" class="tt-query" name="q" type="text" placeholder="<s:message code="label.search.searchQuery" text="Search query" />" autocomplete="off" spellcheck="false" dir="auto" value="<c:out value="${q}"/>">
 												<button id="searchButton" class="btn" type="submit"><s:message code="label.generic.search" text="Search" /></button>
 											</form>
 										</div>
+                    		            </ul>
+                    		            
+                    		            
                     		            
                     		            
 						</nav>

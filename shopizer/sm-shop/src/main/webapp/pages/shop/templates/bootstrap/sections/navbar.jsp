@@ -85,8 +85,7 @@ $(document).ready(function() {
                     						<!-- request contains url and url contains /shop -->
 											<li class="">  
 	                    					       <a href="<c:url value="/shop"/>" class="current">          
-	                    					            <span class="name"><s:message code="menu.home" text="Home"/></span>     
-	                    								<span class="desc"><s:message code="menu.home" text="Home"/></span>                                  
+	                    					            <span class="name"><s:message code="menu.home" text="Home"/></span>                                      
 	                    						   </a>                         
 	                    					</li>
 	
